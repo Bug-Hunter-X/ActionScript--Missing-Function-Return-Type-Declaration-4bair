@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 error: omitting the return type declaration of a function. The `bug.as` file shows the erroneous code, while `bugSolution.as` provides the corrected version.  Properly declaring the return type (`void` in this case) improves code clarity and helps prevent potential runtime issues.
